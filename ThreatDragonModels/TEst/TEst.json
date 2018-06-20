@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "TEst",
+    "owner": "test owner",
+    "description": "just a test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "test reviewer"
+  }
+}
